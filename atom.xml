@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hoganbin&#39;s Blog</title>
+  
+  <subtitle>八一考研数学竞赛</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hoganbin.top/"/>
+  <updated>2020-04-28T16:34:06.000Z</updated>
+  <id>https://hoganbin.top/</id>
+  
+  <author>
+    <name>Hoganbin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>谈20年美赛与我的建模完整经历</title>
+    <link href="https://hoganbin.top/post/2740890607/"/>
+    <id>https://hoganbin.top/post/2740890607/</id>
+    <published>2020-04-28T16:25:18.000Z</published>
+    <updated>2020-04-28T16:34:06.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近看到很多朋友和学弟学妹谈起昨天的美赛成绩公布，其实成绩也不要太在乎，当然不是不在乎，毕竟它关系到你保研和奖学金评定，只是说这个获奖很大程度上有运气成分在，&lt;code&gt;每个人都有获得O奖的可能&lt;/code&gt;，只是看你是否注意到其中建模思想和编程以及排版等各方面，那下面我把
+        
+      
+    
+    </summary>
+    
+    
+      <category term="数学建模" scheme="https://hoganbin.top/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+    
+      <category term="数学建模" scheme="https://hoganbin.top/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python与Anaconda安装教程</title>
+    <link href="https://hoganbin.top/post/2268179876/"/>
+    <id>https://hoganbin.top/post/2268179876/</id>
+    <published>2020-03-23T11:42:36.000Z</published>
+    <updated>2020-03-24T06:25:02.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;一、安装python&quot;&gt;&lt;a href=&quot;#一、安装python&quot; class=&quot;headerlink&quot; title=&quot;一、安装python&quot;&gt;&lt;/a&gt;一、安装python&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;这一文主要为了给更多想开始学&lt;code&gt;python&lt;/code&gt;同学一个开端，八一为了更好地展示其下载与安装流程，我是将之前装好的&lt;code&gt;anaconda&lt;/code&gt;给卸载.&lt;/li&gt;
+&lt;li&gt;这里我推荐的下载软件为&lt;code&gt;迅雷&lt;/code&gt;，速度惊人；&lt;/li&gt;
+&lt;li&gt;另一个便是卸载软件&lt;code&gt;Revo Uninstaller Pro&lt;/code&gt;，几乎可以做到任何软件的完全卸载，尤其当你遇到流氓软件，它便是你的最佳选择。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="机器学习" scheme="https://hoganbin.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="python" scheme="https://hoganbin.top/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年数学专业考研名校真题汇总</title>
+    <link href="https://hoganbin.top/post/4276845085/"/>
+    <id>https://hoganbin.top/post/4276845085/</id>
+    <published>2020-02-17T08:09:32.000Z</published>
+    <updated>2020-02-24T02:48:04.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt; 距离过去20年考研结束已经快两个半月多了，这里我排版了一份20年考研数学分析与高等代数各名校真题，给更多想报考名校的考生一份更踏实的复习，尤其通过今年的考题来揣摩下出题老师的命题趋势，这样对你要所报考院校有个更好的把握.&lt;/p&gt;
+&lt;p&gt;本文档的pdf，请点以下链接进行即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="考研学习" scheme="https://hoganbin.top/categories/%E8%80%83%E7%A0%94%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="数分高代" scheme="https://hoganbin.top/tags/%E6%95%B0%E5%88%86%E9%AB%98%E4%BB%A3/"/>
+    
+      <category term="考研数学" scheme="https://hoganbin.top/tags/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2018-2019年数学专业考研真题分类试题</title>
+    <link href="https://hoganbin.top/post/1486323642/"/>
+    <id>https://hoganbin.top/post/1486323642/</id>
+    <published>2019-12-17T03:03:29.000Z</published>
+    <updated>2019-12-18T09:22:20.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt;距离考研不到一周，我在这里将18-19年985院校真题分类试题发给大家，主要包括了函数与极限、一元函数微分学、一元函数积分、多元函数微分学、多元函数积分学与级数，目前这些文件都是单个，最后我会将这些pdf以&lt;code&gt;book&lt;/code&gt;类型封装，我也会写相关解析附在每部分章节后面，只是目前没时间码，再者题目较为基础，有些题都能在陈守信、钱吉林、李傅山、裴礼文、谢惠民以及研究生入学考试数学分析（上中下三册）都能找到解析，就目前考研形式原创题是越来越少，所以考生要注重教材基础与理解。好了，pdf见如下链接&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="考研学习" scheme="https://hoganbin.top/categories/%E8%80%83%E7%A0%94%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="考研数学" scheme="https://hoganbin.top/tags/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年考研数学一二三模拟试题</title>
+    <link href="https://hoganbin.top/post/3094541265/"/>
+    <id>https://hoganbin.top/post/3094541265/</id>
+    <published>2019-11-30T14:44:45.000Z</published>
+    <updated>2019-12-17T03:13:00.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt;本试题按考研数一考纲命制，题目较为中等，既没有怪题也没有超纲难题，适合正在考研的同学试做，题目并非完全原创，比如最后一题源于18年真题，但我还是放在这份试题是想让同学们放在考前一定练好真题，切记盲目去看解析，好了，下载试题与解析pdf见如下链接&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="考研学习" scheme="https://hoganbin.top/categories/%E8%80%83%E7%A0%94%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="考研数学" scheme="https://hoganbin.top/tags/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第十一届全国大学生数学竞赛河南赛区决赛试卷</title>
+    <link href="https://hoganbin.top/post/2178444192/"/>
+    <id>https://hoganbin.top/post/2178444192/</id>
+    <published>2019-11-17T06:49:07.000Z</published>
+    <updated>2019-11-17T06:59:28.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt;河南赛区复赛于昨天结束，本文包括非数类与数学类，试题来源网友提供，这里非常感谢&lt;strong&gt;欧阳朝信&lt;/strong&gt;同学的排版，对试题总体的评价还是相对比较基础，但题型很具有典型性，涵盖的知识点基本上属于考研与竞赛必须掌握的内容，所以&lt;strong&gt;除了是准备全国竞赛初赛，这对于同学们考研打基础还是有作用，同时也是为了选拔河南赛区优秀学子进入国赛资格&lt;/strong&gt;。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文档pdf获取，请点以下链接即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="大学数学" scheme="https://hoganbin.top/categories/%E5%A4%A7%E5%AD%A6%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学竞赛" scheme="https://hoganbin.top/tags/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第十一届CMC数学类A组试题分析</title>
+    <link href="https://hoganbin.top/post/4286399455/"/>
+    <id>https://hoganbin.top/post/4286399455/</id>
+    <published>2019-10-27T07:38:18.000Z</published>
+    <updated>2019-11-03T13:24:58.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt;本文是四一同学对今年CMC数学类A组的赛题分析，从数分、高代与解几三类题进行思路和考点上做了详细的叙述。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文档pdf获取，请点以下链接即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="大学数学" scheme="https://hoganbin.top/categories/%E5%A4%A7%E5%AD%A6%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学竞赛" scheme="https://hoganbin.top/tags/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线面积分在数学专业考研中的应用与计算方法</title>
+    <link href="https://hoganbin.top/post/2554828870/"/>
+    <id>https://hoganbin.top/post/2554828870/</id>
+    <published>2019-10-21T15:25:34.000Z</published>
+    <updated>2019-10-21T15:30:34.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt;本文主要对曲线积分与曲面积分进行方法上的讲解，通过回顾其定义与性质，利用化为参数的定积分法，格林公式，斯托克斯公式，积分与路径无关的等方法解决第二型曲线积分的题目；利用化二重积分、两类曲面积分之间的联系与轮换对称性，求曲面的形心、斯托克斯公式与积分对称性处理第一类曲面积分，而第二类曲面积分常用高斯公式、分面与合一投影法以及其向量形式和参数方程解决，最后对线面积分在往年数学专业考研真题的应用做出相关解答。&lt;/p&gt;
+&lt;p&gt;本文档的pdf，请点以下链接进行即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="考研学习" scheme="https://hoganbin.top/categories/%E8%80%83%E7%A0%94%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="数学分析" scheme="https://hoganbin.top/tags/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第十一届全国大学生数学竞赛模拟赛</title>
+    <link href="https://hoganbin.top/post/1280700968/"/>
+    <id>https://hoganbin.top/post/1280700968/</id>
+    <published>2019-10-03T13:40:29.000Z</published>
+    <updated>2019-10-03T13:43:16.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;第十一届全国大学生数学竞赛模拟赛&quot;&gt;&lt;a href=&quot;#第十一届全国大学生数学竞赛模拟赛&quot; class=&quot;headerlink&quot; title=&quot;第十一届全国大学生数学竞赛模拟赛&quot;&gt;&lt;/a&gt;第十一届全国大学生数学竞赛模拟赛&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文档pdf获取，请点以下链接即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="大学数学" scheme="https://hoganbin.top/categories/%E5%A4%A7%E5%AD%A6%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学竞赛" scheme="https://hoganbin.top/tags/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第1-11届全国大学生数学竞赛预赛试题参考解析汇总</title>
+    <link href="https://hoganbin.top/post/2693185707/"/>
+    <id>https://hoganbin.top/post/2693185707/</id>
+    <published>2019-09-19T04:39:11.000Z</published>
+    <updated>2019-11-03T13:26:54.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt;本文档是用了$LaTeX$中&lt;strong&gt;pdfpages&lt;/strong&gt;包进行文档合并，包括了2009-2019年从第一届数学竞赛到第十届所有预赛试题解析，分非数与数学类！今年赛题较往年有稍微改动，是对数学类做了部分调整，但影响不大，只是限制了双一流高校数学专业的同学只能报名数学A类。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;文档pdf获取，请点以下链接即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="大学数学" scheme="https://hoganbin.top/categories/%E5%A4%A7%E5%AD%A6%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学竞赛" scheme="https://hoganbin.top/tags/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大学生数学竞赛与考研试题解析</title>
+    <link href="https://hoganbin.top/post/2341693219/"/>
+    <id>https://hoganbin.top/post/2341693219/</id>
+    <published>2019-09-06T11:57:09.000Z</published>
+    <updated>2019-11-03T13:34:54.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt;该文档主要包括了2019 年浙江省高等数学竞赛试题参考答案、2019 年合肥工业大学数学竞赛选拔赛 (非数类)、2019 年四川大学数学竞赛（非数）试题解析、2019 年江苏省高等数学竞赛 (本一) 试题解析 、2019 年天津市大学数学竞赛 (理工) 试题解析以及去年三次模拟赛解析和名校真题解析等等，同时补充了两套丘成桐数学竞赛分析与代数试题，仅当大家学习！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;文档pdf获取，请点以下链接即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="大学数学" scheme="https://hoganbin.top/categories/%E5%A4%A7%E5%AD%A6%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学竞赛" scheme="https://hoganbin.top/tags/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第十一届全国大学生数学竞赛十套模拟试题</title>
+    <link href="https://hoganbin.top/post/3933947415/"/>
+    <id>https://hoganbin.top/post/3933947415/</id>
+    <published>2019-08-08T18:32:26.000Z</published>
+    <updated>2019-08-08T18:37:28.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;第十一届全国大学生数学竞赛十套模拟试题&quot;&gt;&lt;a href=&quot;#第十一届全国大学生数学竞赛十套模拟试题&quot; class=&quot;headerlink&quot; title=&quot;第十一届全国大学生数学竞赛十套模拟试题&quot;&gt;&lt;/a&gt;第十一届全国大学生数学竞赛十套模拟试题&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文档pdf获取，请点以下链接即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="大学数学" scheme="https://hoganbin.top/categories/%E5%A4%A7%E5%AD%A6%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学竞赛" scheme="https://hoganbin.top/tags/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决公众号”whut 数学“七夕一题与问题求解</title>
+    <link href="https://hoganbin.top/post/undefined/"/>
+    <id>https://hoganbin.top/post/undefined/</id>
+    <published>2019-08-07T03:16:01.000Z</published>
+    <updated>2019-08-07T03:21:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;解决公众号”whut-数学“七夕一题与问题求解&quot;&gt;&lt;a href=&quot;#解决公众号”whut-数学“七夕一题与问题求解&quot; class=&quot;headerlink&quot; title=&quot;解决公众号”whut 数学“七夕一题与问题求解&quot;&gt;&lt;/a&gt;解决公众号”whut 数学“七夕一题与问题求解&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文档pdf获取请点以下链接即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="大学数学" scheme="https://hoganbin.top/categories/%E5%A4%A7%E5%AD%A6%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="情人节" scheme="https://hoganbin.top/tags/%E6%83%85%E4%BA%BA%E8%8A%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一届八一杯数学竞赛试题解析与获奖名单公示</title>
+    <link href="https://hoganbin.top/post/397240296/"/>
+    <id>https://hoganbin.top/post/397240296/</id>
+    <published>2019-08-06T10:38:31.000Z</published>
+    <updated>2019-11-03T13:17:20.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt;本次赛事为第一届，于 2019 年 8 月 1 号举办，简称 &lt;code&gt;八一赛&lt;/code&gt;，包括非数与数学专业组，经过一周后的阅卷，将其获奖名单公示，以及细分细则，并公布其赛题解析和试题汇总供考生学习使用。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文档主要包括试题解析与获奖证书PDF获取，请点以下链接即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="大学数学" scheme="https://hoganbin.top/categories/%E5%A4%A7%E5%AD%A6%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学竞赛" scheme="https://hoganbin.top/tags/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于第一届八一杯网络大学生数学竞赛通知</title>
+    <link href="https://hoganbin.top/post/2962000626/"/>
+    <id>https://hoganbin.top/post/2962000626/</id>
+    <published>2019-06-22T16:43:39.000Z</published>
+    <updated>2019-11-03T13:36:18.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt;为了激发大家的数学学习热情，充实自己的暑期生活，同时给参加第十一届全国大学数学竞赛的考生提供一次锻炼的机会，八一决定于 2019 年 8 月 1 号举办第一届八一杯网络数学竞赛，以下简称&lt;code&gt;八一赛&lt;/code&gt;。&lt;code&gt;本次竞赛分为数学组和非数学组，共三套试题&lt;/code&gt;，我们建议与数学相关专业的同学报考数学组的比赛，其他专业的同学随意选择任何组别即可。7月1号会提供报名入口或者在这之前将报名信息发送至我邮箱：&lt;a href=&quot;mailto:hoganbin1995@outlook.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;hoganbin1995@outlook.com&lt;/a&gt;，备注姓名 + 专业与学校和联系电话，但要注意在当天晚上 8 点之前往指定邮箱提交解答即可。八一杯内容如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="考研学习" scheme="https://hoganbin.top/categories/%E8%80%83%E7%A0%94%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="数分高代" scheme="https://hoganbin.top/tags/%E6%95%B0%E5%88%86%E9%AB%98%E4%BB%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>八一专属上网导航</title>
+    <link href="https://hoganbin.top/post/2294226123/"/>
+    <id>https://hoganbin.top/post/2294226123/</id>
+    <published>2019-06-16T07:32:34.000Z</published>
+    <updated>2019-11-03T13:38:06.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt;专属上网导航成功解析部署在我的二级域名，并提供数学网站、编程之家、新闻、视频、游戏、小说、彩票等各种分类的优秀内容和网站入口，我之所以弄一个导航是为了在将来的学习过程更好管理自己的学习工具与教程。链接如下：&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="上网" scheme="https://hoganbin.top/categories/%E4%B8%8A%E7%BD%91/"/>
+    
+    
+      <category term="计算机" scheme="https://hoganbin.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>积分不等式葵花宝典</title>
+    <link href="https://hoganbin.top/post/524382304/"/>
+    <id>https://hoganbin.top/post/524382304/</id>
+    <published>2019-06-12T04:26:28.000Z</published>
+    <updated>2019-11-03T13:28:24.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt;本文主要对数学考研与竞赛中常用到的积分不等式作个小总结，主要有柯西-施瓦茨不等式、琴声不等式、斯蒂文森不等式、积分中值定理法、微分中值定理法、函数单调法、二重积分、定积分性质、留数法、Favard 不等式、Chebyshev 不等式、Minkowski 不等式、Wirtinger 不等式、Hadamard 不等式、KaHTopoBHy 不等式、opial 不等式、Carleman 不等式、Carlson 不等式、摄动中点不等式、lyengar不等式与 Gronwall 不等式，并对相关赛事在往年考研与竞赛的例题做出相关解答.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关键词：&lt;/strong&gt;积分不等式、数学竞赛、数学考研与习题练习&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文档的pdf，请点以下阅读原文，点击链接即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="大学数学" scheme="https://hoganbin.top/categories/%E5%A4%A7%E5%AD%A6%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学技巧" scheme="https://hoganbin.top/tags/%E6%95%B0%E5%AD%A6%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019年全国新课标卷文理科数学LaTeX试题与解析</title>
+    <link href="https://hoganbin.top/post/1780964907/"/>
+    <id>https://hoganbin.top/post/1780964907/</id>
+    <published>2019-06-10T09:25:40.000Z</published>
+    <updated>2019-06-14T06:34:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2019年全国新课标卷文理科数学LaTeX试题与解析共计12套&quot;&gt;&lt;a href=&quot;#2019年全国新课标卷文理科数学LaTeX试题与解析共计12套&quot; class=&quot;headerlink&quot; title=&quot;2019年全国新课标卷文理科数学LaTeX试题与解析共计12套&quot;&gt;&lt;/a&gt;2019年全国新课标卷文理科数学LaTeX试题与解析共计12套&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文档的pdf，请点以下阅读原文，点击链接即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="高中数学" scheme="https://hoganbin.top/categories/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="高考" scheme="https://hoganbin.top/tags/%E9%AB%98%E8%80%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019年江苏高考数学真题LaTeX排版</title>
+    <link href="https://hoganbin.top/post/2531000494/"/>
+    <id>https://hoganbin.top/post/2531000494/</id>
+    <published>2019-06-10T09:15:50.000Z</published>
+    <updated>2019-06-10T09:20:06.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2019年江苏高考数学真题LaTeX排版&quot;&gt;&lt;a href=&quot;#2019年江苏高考数学真题LaTeX排版&quot; class=&quot;headerlink&quot; title=&quot;2019年江苏高考数学真题LaTeX排版&quot;&gt;&lt;/a&gt;2019年江苏高考数学真题LaTeX排版&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文档的pdf，请点以下阅读原文，点击链接即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="高中数学" scheme="https://hoganbin.top/categories/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="高考" scheme="https://hoganbin.top/tags/%E9%AB%98%E8%80%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>对2019年全国卷导数压轴大题试题解析</title>
+    <link href="https://hoganbin.top/post/830279454/"/>
+    <id>https://hoganbin.top/post/830279454/</id>
+    <published>2019-06-10T09:02:09.000Z</published>
+    <updated>2019-06-10T09:24:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;对2019年全国卷导数压轴大题试题解析&quot;&gt;&lt;a href=&quot;#对2019年全国卷导数压轴大题试题解析&quot; class=&quot;headerlink&quot; title=&quot;对2019年全国卷导数压轴大题试题解析&quot;&gt;&lt;/a&gt;对2019年全国卷导数压轴大题试题解析&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;微信公众号：&lt;strong&gt;八一考研数学竞赛&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;离 19 年高考数学结束两天了，分析全国三套文理科，共 6 张试题的导数大题，难度均中等. &lt;/p&gt;
+&lt;p&gt;本文档的pdf，请点以下阅读原文，点击链接即可下载。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="高中数学" scheme="https://hoganbin.top/categories/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="高考" scheme="https://hoganbin.top/tags/%E9%AB%98%E8%80%83/"/>
+    
+  </entry>
+  
+</feed>
